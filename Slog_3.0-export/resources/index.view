@@ -1,0 +1,5 @@
+<svg>
+  <use id="recBtn" href="#text-button"  y="10%" class="text-button secondary application-fill" />
+  <use id="xferBtn" href="#text-button"  y="40%" class="text-button secondary application-fill" />
+  <use id="resetBtn" href="#text-button"  y="70%" class="text-button secondary application-fill" />
+</svg>
